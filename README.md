@@ -2,7 +2,9 @@
 ## Descripción oferta productos/servicios ofrecidos: Somos una tienda en linea, que ofrece ropa deportiva de marca reconocia (Nike, Adidas, Reebok) para compra en linea. Nuestro publico visitante esperado serán personas que practican deporte, ejercicio o les gusta usar ropa deportiva como ropa casual. 
 ## Integrantes del equipo:
 ### Sara Berrio: Administradora de Empresas, me gustan los animales y estudio desarrollo de software para complementar con mi carrera.
-### Ivonne Torres:
+
+
+### Ivonne Torres:Financiera, me gusta viajar y estoy aprendiendo programacion para fortalecer mis actividades profesionales.
 ### Carlos Camargo: Ingeniero Industrial, me gustan los juegos en Linea y estoy aprendiendo desarrollo de software para usar mis conocimientos en una trabajo alterno.
 
 # Sitios de Referencia:
